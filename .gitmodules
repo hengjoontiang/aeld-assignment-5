@@ -9,3 +9,6 @@
 	path = assignment-7-hengjoontiang
 	url = git@github.com:hengjoontiang/aeld-assignment-7.git
 
+[submodule "buildroot"]
+	path = buildroot
+	url = https://gitlab.com/buildroot.org/buildroot/
